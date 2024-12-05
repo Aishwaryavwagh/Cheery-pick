@@ -1,3 +1,7 @@
 Introduction to cherry pick
+<<<<<<< HEAD
 add one more
 second
+=======
+add one more
+>>>>>>> f3cfbc6 (third)
