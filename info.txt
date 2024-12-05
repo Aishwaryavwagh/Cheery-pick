@@ -1,10 +1,4 @@
 Introduction to cherry pick
 add one more
-Introduction to cherry pick
-<<<<<<< HEAD
-add one more
 second
 third
-=======
-add one more
->>>>>>> f3cfbc6 (third)
